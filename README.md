@@ -29,7 +29,7 @@
 
 ### 📁 Proyectos Destacados
 
-* ⛽ **[Nombre del Repo de PWA]**: Sistema progresivo para el control y gestión logística de combustibles y lubricantes.
+* ⛽ **https://github.com/Joaco722/scrapper-concursos**: Sistema progresivo para el control y gestión logística de combustibles y lubricantes.
 * 📊 **[Nombre del Repo de Scraping]**: Script en Python con Selenium para la automatización, extracción y monitoreo de datos web.
 * 🚢 **[Nombre del Repo Titanic]**: Análisis Exploratorio de Datos (EDA) y modelos predictivos (Random Forest) aplicados a la competencia de Kaggle.
 
